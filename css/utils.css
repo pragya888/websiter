@@ -1,0 +1,14 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    padding: 5px 7px;
+    color:sienna;
+ border: 2px rgb(173, 70, 22);
+ font-family: 'Lobster', cursive;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
